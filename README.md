@@ -83,9 +83,6 @@ This repository contains a collection of Operating Systems laboratory experiment
 ## 🤝 Contributions
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/richujoseph/OS-LAB-Experiments/issues).
 
-## 📄 License
-[Specify your license here, e.g., MIT License]
-
 ## 🌟 Show your support
 Give a ⭐️ if this repository helps you in understanding Operating Systems concepts!
 
